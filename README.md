@@ -178,3 +178,7 @@ http://alloyteam.github.io/CodeGuide/
 	    github: 'http://alloyteam.github.io/',
 	    coding: 'http://www.coding.net/alloyteam/'
 	}
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/webx32/alloyteam.github.com/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
